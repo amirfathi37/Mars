@@ -1,2 +1,2 @@
 # Mars
-It is related to Git learning
+It is related to Git learning.
